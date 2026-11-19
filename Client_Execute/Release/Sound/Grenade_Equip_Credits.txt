@@ -1,0 +1,22 @@
+Grenade_Equip.wav
+
+Custom edit of Kenney's RPG Audio (Kenney Vleugels).
+Source: https://kenney.nl/assets/rpg-audio
+License: Creative Commons Zero (CC0 1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Source samples:
+- Audio/clothBelt.ogg
+- Audio/cloth2.ogg
+- Audio/handleSmallLeather2.ogg
+- Audio/beltHandle1.ogg
+
+Edits: layered pouch/cloth movement, subdued leather/buckle handling,
+pitch/time adjustment, EQ, fades, soft transient compression, mono PCM export.
+Output: 48 kHz / 16-bit PCM WAV, approximately 0.8 seconds.
+
+Reference research:
+OpenSpades Free Assets documents cloth/equipment sounds for grenade actions:
+https://github.com/DeathByDenim/openspades-free-pak/blob/main/License/Credits-pak001-Free.md
+
+No commercial game's recording was copied into this asset.
